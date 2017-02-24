@@ -14,8 +14,8 @@
 		"48": "icons/Mouse-48.png",
 		"128": "icons/Mouse-128.png"
 	},
-	"description": "Invisibars is a Chrome extension which removes wasteful scrolls bars while still allowing you to scroll with your mousewheel or any other input device, software.",
-	"homepage_url": "https://github.com/Jasius/Invisibars",
+	"description": "Makes your scrollbars invisible.",
+	"homepage_url": "http://invisibars.jaska.co",
 	"offline_enabled": true,
 	"manifest_version": 2,
 	"name": "Invisibars",
@@ -32,7 +32,7 @@
 		"page": "donate.html"
 	},
 	"update_url": "https://clients2.google.com/service/update2/crx",
-	"version": "0.6",
+	"version": "0.7",
 	"web_accessible_resources": [
 		"css/invisibars.css"
 	]

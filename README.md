@@ -1,1 +1,1 @@
-![Placeholder](https://raw.githubusercontent.com/Jasius/Invincible-scrollbars/master/icons/Mouse-128.png)
+![Placeholder](https://raw.githubusercontent.com/Jasius/Invisibars/master/invisibars/icons/Mouse-128.png)
