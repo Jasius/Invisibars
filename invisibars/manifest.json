@@ -19,6 +19,7 @@
 	"offline_enabled": true,
 	"manifest_version": 2,
 	"name": "Invisibars",
+	"short_name": "Invisibars",
 	"permissions": [
 		"contextMenus",
 		"unlimitedStorage",
@@ -32,7 +33,7 @@
 		"page": "donate.html"
 	},
 	"update_url": "https://clients2.google.com/service/update2/crx",
-	"version": "0.7",
+	"version": "0.8",
 	"web_accessible_resources": [
 		"css/invisibars.css"
 	]
