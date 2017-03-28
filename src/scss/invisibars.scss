@@ -1,0 +1,18 @@
+body::-webkit-scrollbar {
+    display: none
+}
+
+body.visibar::-webkit-scrollbar {
+    width: 10px;
+    display: block!important;
+    &-thumb,
+    &-track {
+        display: block!important;
+    }
+    &-track {
+        background: #ddd;
+    }
+    &-thumb {
+        background: #666;
+    }
+}

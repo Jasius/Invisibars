@@ -1,0 +1,1 @@
+chrome.browserAction.onClicked.addListener(function(e){chrome.tabs.executeScript({file:"dist/js/insert.js"})});

@@ -1,0 +1,1 @@
+body::-webkit-scrollbar{display:none}body.visibar::-webkit-scrollbar{width:10px;display:block!important}body.visibar::-webkit-scrollbar-thumb,body.visibar::-webkit-scrollbar-track{display:block!important}body.visibar::-webkit-scrollbar-track{background:#ddd}body.visibar::-webkit-scrollbar-thumb{background:#666}
