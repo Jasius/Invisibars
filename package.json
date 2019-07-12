@@ -7,6 +7,12 @@
     "gulp-csso": "^3.0.0",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^2.1.2",
-    "pump": "^1.0.2"
-  }
+    "pump": "^1.0.2",
+    "snyk": "^1.85.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
